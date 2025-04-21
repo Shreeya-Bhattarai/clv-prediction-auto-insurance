@@ -27,7 +27,7 @@ February 2011. It contains information about every policyholder’s vehicle, pol
 
 All models showed improved performance when trained on clustered data due to more homogenous group characteristics, with Random Forest achieving the highest overall R².
 
-### Insights and Business Value
+### Insights
 - Customers in California and Oregon make up 60% of revenue → targeted geo-retention.
 - High CLV = higher premiums + more policies → upsell opportunities.
 - Segment 3 (high CLV): propose loyalty club, fast-track renewals, and dedicated service line.
